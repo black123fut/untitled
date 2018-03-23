@@ -1,3 +1,4 @@
+// Leaf
 public class Game extends VideoGameComponent {
 
     private String gameName;
@@ -36,4 +37,5 @@ public class Game extends VideoGameComponent {
     private String getGameName(){
         return gameName;
     }
+
 }

@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+//Composite
 public class GameGenre extends VideoGameComponent {
 
     private ArrayList<VideoGameComponent> gameComponent = new ArrayList<>();
@@ -34,5 +35,6 @@ public class GameGenre extends VideoGameComponent {
     private String getNewGenre(){
         return newGenre;
     }
+
 
 }

@@ -25,5 +25,6 @@ public class Client {
         Catalog catalogue = new Catalog(everyGenre);
         catalogue.showCatalogue();
 
+
     }
 }

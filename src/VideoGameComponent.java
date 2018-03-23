@@ -1,3 +1,4 @@
+//Component
 public abstract class VideoGameComponent {
 
     public void add(VideoGameComponent newGameComponent){
@@ -17,6 +18,7 @@ public abstract class VideoGameComponent {
     public VideoGameComponent getComponent(int index){
         return null;
     }
+
 
 }
 
