@@ -8,6 +8,7 @@ public abstract class VideoGameComponent {
     public String getStudioName(){
         return null;
     }
+
     
     public abstract void showInfo();
 
