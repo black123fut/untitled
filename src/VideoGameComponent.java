@@ -8,11 +8,7 @@ public abstract class VideoGameComponent {
     public String getStudioName(){
         return null;
     }
-
-    public int getFechaLanzamiento(){
-        return 0;
-    }
-
+    
     public abstract void showInfo();
 
     public VideoGameComponent getComponent(int index){
